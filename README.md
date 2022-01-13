@@ -1,1 +1,1 @@
-# COMP.4220---Machine-Learning
+# COMP.4220 - Machine Learning
